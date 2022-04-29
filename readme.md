@@ -6,7 +6,7 @@
   </head>
   <body>
     <table cellspacing="20">
-      <td><img src="crop_image.png"  /></td>
+      <td><img src="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/crop_image.png"  /></td>
       <td><h1><strong>KUSHAL KANT</strong></h1>
       <h3><strong>Bio</strong></h3>
       <h4>problem solver and fast learner with strong commnication skills. I am motivated to upgrade and expand my skill set through mentorship and challenging project.
