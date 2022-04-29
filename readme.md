@@ -23,14 +23,14 @@
 <h2><strong>EDUCATION</strong></h2>
 <ul>
   <li>
-    <a href="10thboard.html">10th Board</a>
+    <a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/10thboard.html">10th Board</a>
 
   </li>
 <li>
-    <a href="12tboard.html">12th Board</a>
+    <a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/12tboard.html">12th Board</a>
 </li>
 <li>
-  <a href="Graduation.html">Graduation</a>
+  <a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/Graduation.html">Graduation</a>
 </li>
 </ul>
 <hr>
@@ -45,15 +45,15 @@
   <tbody>
     <tr>
   <td>1</td>
-      <td><a href="coursera_webdev.pdf">coursera certificate for HTML, CSS, java script</a> </td>
+      <td><a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/coursera_webdev.pdf">coursera certificate for HTML, CSS, java script</a> </td>
         </tr>
           <tr>
     <td>2</td>
-    <td><a href="NPTEL_cloudcomputng.jpeg">NPTEL CLOUD COMPUTING certified</a></td>
+    <td><a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/NPTEL_cloudcomputng.jpeg">NPTEL CLOUD COMPUTING certified</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="coursera user design.pdf">COURSERA INTRODUCTION TO USER EXPERIENCE & DESIGN </a></td>
+    <td><a href="https://github.com/hitmankk/cv/blob/main/web%20development/HTML-personal%20site/coursera user design.pdf">COURSERA INTRODUCTION TO USER EXPERIENCE & DESIGN </a></td>
   </tr>
   </tbody>
 </table>
@@ -88,6 +88,6 @@
 </tbody>
 </table>
 <hr>
-<h3><a href="C:\Users\HP\Desktop\web development\contact_me.html"><strong>contact</strong</a></h3>
+<h3><a href="https://github.com/hitmankk/cv/blob/main/web%20development/contact_me.html"><strong>contact</strong</a></h3>
   </body>
 </html>
